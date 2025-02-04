@@ -13,7 +13,7 @@ All of the depicted results were produced by the same neural model that is provi
 
 </h4>
 
-This Github repository provides code and pretrained models for [Metamizer: a versatile neural optimizer for fast and accurate physics simulations](https://arxiv.org/abs/2410.19746).
+This Github repository provides code and pretrained models for [Metamizer: a versatile neural optimizer for fast and accurate physics simulations](https://wandeln.github.io/Metamizer_webpage/).
 If you have questions, feel free to contact me (wandeln@cs.uni-bonn.de).
 
 
