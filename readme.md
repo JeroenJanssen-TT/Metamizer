@@ -1,6 +1,6 @@
 # Metamizer: a versatile neural optimizer for fast and accurate physics simulations [ICLR '25]
 
-<!--- h4 align="center"-->
+< h4 align="center">
 
 [Nils Wandel](https://cg.cs.uni-bonn.de/person/dr-nils-wandel), [Stefan Schulz](https://cg.cs.uni-bonn.de/person/m-sc-stefan-schulz), [Reinhard Klein](https://cg.cs.uni-bonn.de/person/prof-dr-reinhard-klein)
 
@@ -11,7 +11,7 @@
 
 All of the depicted results were produced by the same neural model that is provided in this repository. PDEs marked in red were not considered during training.
 
-<!---/h4-->
+</h4>
 
 This Github repository provides code and pretrained models for [Metamizer: a versatile neural optimizer for fast and accurate physics simulations](https://arxiv.org/abs/2410.19746).
 If you have questions, feel free to contact me (wandeln@cs.uni-bonn.de).
