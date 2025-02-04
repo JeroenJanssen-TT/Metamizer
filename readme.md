@@ -1,6 +1,6 @@
 # Metamizer: a versatile neural optimizer for fast and accurate physics simulations [ICLR '25]
 
-< h4 align="center">
+<h4 align="center">
 
 [Nils Wandel](https://cg.cs.uni-bonn.de/person/dr-nils-wandel), [Stefan Schulz](https://cg.cs.uni-bonn.de/person/m-sc-stefan-schulz), [Reinhard Klein](https://cg.cs.uni-bonn.de/person/prof-dr-reinhard-klein)
 
